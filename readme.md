@@ -23,6 +23,6 @@ curl --request GET \
   --header 'User-Agent: insomnia/8.6.1'
 ```
 
-![POST](https://github.com/azflin7/sepolia-faucet-api/assets/img/screenshot1.png)  
+![POST](assets/img/screenshot1.png)  
 
-![GET](https://github.com/azflin7/sepolia-faucet-api/assets/img/screenshot2.png)  
+![GET](assets/img/screenshot1.png)  
