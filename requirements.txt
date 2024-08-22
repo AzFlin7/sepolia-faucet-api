@@ -1,0 +1,5 @@
+django
+web3
+mnemonic
+python-decouple
+djangorestframework
